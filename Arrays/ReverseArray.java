@@ -1,6 +1,6 @@
 // Iterative java program to reverse an 
 // array 
-public class Sum_min_max { 
+public class Reverse_array { 
 	
 /* Function to reverse arr[] from 
 	start to end*/
