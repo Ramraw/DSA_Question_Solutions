@@ -1,5 +1,6 @@
 
 class GfG{
+    
    public long multiplyTwoLists(Node l1,Node l2){
        long N = 1000000007;
        long num1 = 0, num2 = 0;
